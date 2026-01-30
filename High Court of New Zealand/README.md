@@ -11,6 +11,7 @@
 `JUDICIAL ROSTER`
 - The Hon OfficerJohnsonYT KC (CJ)
 - Hon. Cheif15092009 KC (J)
+- Hon. Maurice1006 SC (J)
 
 `PURPOSE OF THE COURTS & JURISDICTION`
 

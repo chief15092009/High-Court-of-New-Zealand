@@ -16,11 +16,11 @@
 `PURPOSE OF THE COURTS & JURISDICTION`
 
 <p>
-The High Court of New Zealand is a superior court of record with general jurisdiction. It exercises original jurisdiction in serious civil and criminal matters and appellate jurisdiction over decisions of the District Court and specialist tribunals, as provided by law.
+The High Court of New Zealand is a superior court of record with general jurisdiction. It exercises original jurisdiction in all civil and criminal matters and appellate jurisdiction over decisions of specialist tribunals, as provided by law.
 </p>
 
 <p>
-The Court has inherent jurisdiction and authority to supervise inferior courts and tribunals, ensure the proper administration of justice, and determine matters involving complex questions of law, significant public interest, or substantial monetary value.
+The Court has inherent jurisdiction and authority to supervise tribunals, ensure the proper administration of justice, and determine matters involving complex questions of law, significant public interest, or substantial monetary value.
 </p>
 
 <p align="center"> *******

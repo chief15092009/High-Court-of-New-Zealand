@@ -31,7 +31,7 @@ REASONS FOR JUDGEMENT
 
 ```
 HEARING:     DD MONTH YYYY
-APPEARANCES: ############# for the Crown
+APPEARANCES: ############# for the Plaintiff
              ############# for the Defendant
 SENTENCE:    DD MONTH YYYY
 ```
